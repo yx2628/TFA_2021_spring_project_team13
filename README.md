@@ -15,6 +15,7 @@ Note: You can see 3 contributors in this project. That is because AlexYuxuanXia 
 
 ## Description
 ### Top10.ipynb
+Analyzed what the top 10 causes of calls to 311 are in your chosen ZIP code
 
 ### Parking.ipynb
 Analyzed whether illegal parking incidents are a larger fraction of total 311 incidents in my ZIP code area than in the whole NYC. We pick 11101 (Long Island City) as our ZIP code.
